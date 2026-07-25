@@ -1,5 +1,15 @@
 # 💫 About Me:
-## 👋 Hi, I'm Renuka<br><br>🎓 B.Tech in Artificial Intelligence & Data Science<br><br>💻 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Data science, Data Analysis.<br><br>🌱 Currently learning advanced AI and building real-world projects.<br><br>📫 Reach me: renukanaga.g@gmail.com
+## ## 👋 About Me
+
+I'm **Renuka Naga Tejaswini**, an aspiring **AI & Data Science Engineer** and **Full Stack Developer** with a passion for building intelligent, scalable, and user-centric applications.
+
+🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at Lakireddy Bali Reddy College of Engineering (Autonomous).
+
+🔹 Strong interests in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Predictive Analytics, and Full Stack Development**.
+
+🔹 Dedicated to transforming ideas into impactful solutions through continuous learning, innovation, and hands-on project development.
+
+📫 **Reach me:** **renukanaga.g@gmail.com**<br><br>📫 Reach me: renukanaga.g@gmail.com
 
 
 ## 🌐 Socials:
