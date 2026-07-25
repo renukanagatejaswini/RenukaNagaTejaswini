@@ -1,5 +1,4 @@
 # 💫 About Me:
-## ## 👋 About Me
 
 I'm **Renuka Naga Tejaswini**, an aspiring **AI & Data Science Engineer** and **Full Stack Developer** with a passion for building intelligent, scalable, and user-centric applications.
 
@@ -8,8 +7,7 @@ I'm **Renuka Naga Tejaswini**, an aspiring **AI & Data Science Engineer** and **
 🔹 Strong interests in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Predictive Analytics, and Full Stack Development**.
 
 🔹 Dedicated to transforming ideas into impactful solutions through continuous learning, innovation, and hands-on project development.
-
-📫 **Reach me:** **renukanaga.g@gmail.com**<br><br>📫 Reach me: renukanaga.g@gmail.com
+<br><br>📫 Reach me: renukanaga.g@gmail.com
 
 
 ## 🌐 Socials:
